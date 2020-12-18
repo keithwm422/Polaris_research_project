@@ -8,7 +8,10 @@ git pull origin master
 
 # After making edits to a file, if you want to put those changes to the repo on github, do the following (in order)
 git pull origin master
+
 git add <insert file(s) name(s)> (do this command to as many files you to 'commit' to the repo on github)
+
 git commit <insert commit message> (add a message in the editor or on the command line, make it brief)
+  
 git push origin master 
   
